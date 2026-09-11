@@ -347,7 +347,7 @@ Machine Learning • Anomaly Detection • NLP • LLM • RAG • Threat Detect
 
 👩‍💻 Author
 
-Agastiya Jenifer
+Agastiya Jenifer A 
 
 B.Sc. Computer Science — 2026 Batch
 
